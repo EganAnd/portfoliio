@@ -6,4 +6,9 @@ Google Advanced Data Analytics Certificate Course Projects
 
 [Statistical Analysis I](TLC_Statistical_Analysis.md)
 
+Examples of Python Code outside of data science
+
+[Snake Game Code](main.py.html)
+
+
 
