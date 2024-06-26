@@ -1,6 +1,5 @@
-# Egan Anderson's coding portfolio
+# Welcome to my Data Science and Coding Portfolio
 
-My professional portfolio
+Google Advanced Data Analytics Certificate Course Projects
 
-Here is an example of [Exploratory Data Analysis (EDA)](EDA_TLC_Notebook.md) performed during the 
-Google Advanced Data Analytics Course
+[Exploratory Data Analysis (EDA)](EDA_TLC_Notebook.md) 
